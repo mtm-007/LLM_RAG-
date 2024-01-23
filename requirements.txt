@@ -1,0 +1,6 @@
+transformers
+accelerate
+upgrade optimum
+auto-gptq
+Wikipedia-api
+-U sentence-transformers
